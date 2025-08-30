@@ -3,9 +3,7 @@
   "description": "Check if a program is installed.",
   "version": "2.3.10",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "https://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -15,12 +13,12 @@
     "test:lint": "standard",
     "test:tape": "tape index.test.js"
   },
-  "homepage": "https://github.com/zacanger/is-program-installed#readme",
+  "homepage": "https://github.com/zautumnz/is-program-installed#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/is-program-installed.git"
+    "url": "https://github.com/zautumnz/is-program-installed.git"
   },
-  "bugs": "https://github.com/zacanger/is-program-installed/issues",
+  "bugs": "https://github.com/zautumnz/is-program-installed/issues",
   "keywords": [
     "command",
     "exec",
@@ -29,12 +27,12 @@
     "program"
   ],
   "devDependencies": {
-    "sortpack": "2.3.3",
-    "standard": "17.0.0",
-    "tape": "5.6.3"
+    "sortpack": "2.4.0",
+    "standard": "17.1.2",
+    "tape": "5.9.0"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=24.0.0"
   },
   "dependencies": {}
 }
