@@ -27,7 +27,7 @@
     "program"
   ],
   "devDependencies": {
-    "sortpack": "2.4.0",
+    "sortpack": "3.0.0",
     "standard": "17.1.2",
     "tape": "5.9.0"
   },
